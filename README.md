@@ -19,7 +19,7 @@ A DIY "See-Through-Wall" radar system built with an ESP32-S3 microcontroller and
 * Micro-USB or USB-C cable for data transfer.
 
 ## 💻 Software & Libraries
-* **IDE:** VS Code / Cursor with the **PlatformIO** extension.
+* **IDE:** VS Code / **PlatformIO** extension.
 * **C++ Framework:** Arduino framework for ESP32 (`esp_wifi.h`, `WiFi.h`).
 * **Python 3.x**
 * **Python Packages:** ```bash
