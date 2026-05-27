@@ -23,7 +23,9 @@ A DIY "See-Through-Wall" radar system built with an ESP32-S3 microcontroller and
   pip install pyserial matplotlib pandas scikit-learn
 
 
-  WiFi_CSI_Transmitter/
+## 📂 Project Structure
+```text
+WiFi_CSI_Transmitter/
 │
 ├── src/
 │   └── main.cpp             # ESP32 C++ code for CSI extraction and dummy UDP traffic
