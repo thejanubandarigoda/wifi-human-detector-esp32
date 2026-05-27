@@ -1,5 +1,8 @@
 # ESP32 Wi-Fi CSI Human Movement Detector (RF-Pose)
 
+<img width="1247" height="701" alt="image" src="https://github.com/user-attachments/assets/b700ef7b-4613-4754-9419-0dfa798e0b0a" />
+
+
 A DIY "See-Through-Wall" radar system built with an ESP32-S3 microcontroller and Machine Learning. This project utilizes Wi-Fi Channel State Information (CSI) to detect physical movements (like human walking) in a room without the need for cameras or traditional motion sensors.
 
 ## 🚀 Features
